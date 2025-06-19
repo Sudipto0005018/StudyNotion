@@ -8,7 +8,7 @@ const Contact = () => {
   }, []);
 
   return (
-    <div className="bg-richblack-900 text-white py-16 px-4 h-screen h-auto">
+    <div className="bg-richblack-900 text-white py-16 px-4">
       <div className="w-11/12 max-w-[1160px] mx-auto">
         {/* Header */}
         <div className="text-center mb-12" data-aos="fade-up">
