@@ -148,31 +148,6 @@ const About = () => {
         </div>
       </div>
 
-      {/* Fun Facts Section
-      <div
-        className="grid md:grid-cols-3 gap-8 text-center mb-16"
-        data-aos="fade-up"
-      >
-        <div>
-          <h2 className="text-5xl font-bold text-yellow-50">
-            <CountUp end={50} duration={2} />+
-          </h2>
-          <p className="text-richblack-200 mt-2">Expert Mentors</p>
-        </div>
-        <div>
-          <h2 className="text-5xl font-bold text-yellow-50">
-            <CountUp end={1200} duration={2} />+
-          </h2>
-          <p className="text-richblack-200 mt-2">Students Enrolled</p>
-        </div>
-        <div>
-          <h2 className="text-5xl font-bold text-yellow-50">
-            <CountUp end={300} duration={2} />+
-          </h2>
-          <p className="text-richblack-200 mt-2">Projects Built</p>
-        </div>
-      </div> */}
-
       {/* Timeline Section */}
       <h2 className="text-3xl font-bold text-center mb-8" data-aos="fade-up">
         Your Learning Journey
